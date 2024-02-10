@@ -27,4 +27,6 @@ py -m unittest -v .\Test_Code\[filename].py
 ```Copy code
 nose2 -v --with-coverage
 ```
-![image](https://github.com/Keetasin/Software-Testing/assets/151896052/6e2b3a15-c434-40d4-bb05-6d3791b771cd)
+![image](https://github.com/Keetasin/Software_Testing/assets/151896052/56a41906-1e00-4a19-be3e-90888ff9bbb4)
+
+
